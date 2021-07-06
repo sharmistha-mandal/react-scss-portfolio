@@ -24,26 +24,26 @@ Your app is ready to be deployed!
 
 You can learn more about this Portfolio React Website [React Portfolio Website Tutorial | Responsive React Project Full Course for Beginners](https://www.youtube.com/watch?v=7WwtzsSHdpI).
 
-### Advanced Configuration
+## Advanced Configuration
 
 ### `npm install node-sass`
 
-### Material-UI Configuration
+## Material-UI Configuration
 
 ### `npm install   @material-ui/core @material-ui/icons`
 
-### CSS Scroll Snap
+## CSS Scroll Snap
 
 CSS Scroll Snap is a module of CSS that introduces scroll snap positions, which enforce the scroll positions that a scroll container’s scrollport may end at after a scrolling operation has completed.
 
-### Type Writter Effect - ityped
+## Type Writter Effect - ityped
 
 ### `npm install ityped`
 
-### Display Portfolio List based on Selection Type
+## Display Portfolio List based on Selection Type
 
 Overlay effect on hover
 
-### Slider slide each work 
+## Slider slide each work 
 
 Playing with transform property to make it work
