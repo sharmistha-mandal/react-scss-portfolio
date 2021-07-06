@@ -1,0 +1,30 @@
+.app{
+    height: 100vh;
+
+    .sections{
+        width: 100%;
+        height: calc(100vh - 70px);
+        //background-color: lightsalmon;
+        position: relative;
+        top: 70px;
+        // scroll smoothly when jump into sections by clicking anchor
+        scroll-behavior: smooth;
+
+       // scroll in y direction https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type
+        scroll-snap-type: y mandatory;
+
+        //Hide scrollbar 
+        scrollbar-width: none; //for firefox
+        &::-webkit-scrollbar{
+            display: none;
+        } 
+
+        //each element inside
+        > *{
+            width: 100vw;
+            height: calc(100vh - 70px);
+            // if scroll, back to nearest start
+            scroll-snap-align: start;
+        }
+    }
+}
