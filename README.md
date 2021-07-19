@@ -19,11 +19,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-
-## Learn More
-
-You can learn more about this Portfolio React Website [React Portfolio Website Tutorial | Responsive React Project Full Course for Beginners](https://www.youtube.com/watch?v=7WwtzsSHdpI).
-
 ## Advanced Configuration
 
 ### `npm install node-sass`
